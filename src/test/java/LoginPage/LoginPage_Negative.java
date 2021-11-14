@@ -7,6 +7,8 @@ public class LoginPage_Negative {
 		
 		System.out.println("Login Page Negative Test Case");
 		
+		System.out.println("Login Page Negative Test Case 2");
+		
 	}
 
 }
